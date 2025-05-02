@@ -1,13 +1,16 @@
 # About Me
 
+## :construction: Like any good craft, this is always a work in progress
+
 Hello hello! This is me, Matías, talking to you. I bet you're tired of asking and answering the same questions over and over. Good news: reading this will take less than 10 minutes, and you'll come away with a general idea of my work style and preferences, beyond what you can find on LinkedIn or a CV. I'm writing in the tone I usually use in day to day conversations. Of course, when needed, I can be formal and professional. But this is the real me, just another fellow dev on the team, talking to you before or after a meeting, when there's a bit of time to get to know each other better. Since we spend a big chunk of our daylight working, I think it's important to feel comfortable with the people we work with.
 
 ---
 
-# Index
+## Index
 
 - [About Me](#about-me)
-- [Index](#index)
+  - [:construction: Like any good craft, this is always a work in progress](#construction-like-any-good-craft-this-is-always-a-work-in-progress)
+  - [Index](#index)
   - [Day to day workflows](#day-to-day-workflows)
   - [As a team member](#as-a-team-member)
   - [Some rules of thumb](#some-rules-of-thumb)

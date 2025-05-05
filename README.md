@@ -15,18 +15,19 @@ Hello hello! This is me, Matías, talking to you. I bet you're tired of asking a
   - [As a team member](#as-a-team-member)
   - [Some rules of thumb](#some-rules-of-thumb)
   - [What I enjoyed lately](#what-i-enjoyed-lately)
+  - [Approach to testing](#approach-to-testing)
   - [Javascript | Typescript | React | Node](#javascript--typescript--react--node)
     - [Coding style preferences](#coding-style-preferences)
     - [Libraries](#libraries)
     - [Misc](#misc)
   - [How I onboard](#how-i-onboard)
   - [Common tools](#common-tools)
+  - [How I clear my mind](#how-i-clear-my-mind)
   - [How I debug](#how-i-debug)
   - [Communication](#communication)
   - [People on our field I admire](#people-on-our-field-i-admire)
   - [How I approach PRs](#how-i-approach-prs)
   - [How I stay relevant in the field](#how-i-stay-relevant-in-the-field)
-  - [Technical decisions](#technical-decisions)
 
 ---
 
@@ -67,6 +68,8 @@ Hello hello! This is me, Matías, talking to you. I bet you're tired of asking a
 - TODO: polish. Improve UI performance: I found out that third world people can't afford to have a fast internet connection, so we have to make sure our app is fast enough. Also mobile plans are expensive for them, so we have to make sure our app is light enough. So some ideas: use responsive images with the proper format, lazy loading, reduce the number of requests we send to the server, use the proper cdn, etc.
 - Enhance pipelines to make them more efficient and our lives easier (biome and lefthook are really nice tools to be honest)
 - I had to handle a mixpanel server side migration (company was using client side version but a lot of valuable data was lost because of adblockers) TODO: talk about and the ip related issues because of cloudflare
+
+## Approach to testing
 
 ## Javascript | Typescript | React | Node
 
@@ -131,8 +134,21 @@ _(TODO: Section pending)_
 - zsh and aliases
 - Browser extensions
 - nvm
+- If I didn't have a good night and keeping focus is difficult, the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) always saves my day and I found this [elegant implementation](https://pomodoro-tracker.com/) the right tool to help me
+
+## How I clear my mind
+
+- Take a short walk
+- Cooking
+- Calisthenics - Functional strength training
+- Clean the house
+- Take a break for that particular challenge and switch to another simpler one or a different topic like updating docs, writing tests, etc.
 
 ## How I debug
+
+- Browser extensions:
+  - [React Developer Tools]()
+  - [Context dev tools]
 
 _(TODO: Section pending)_
 
@@ -177,6 +193,8 @@ I have a fist of sources I follow:
 - A few youtube channels
 - Follow twitter accounts
 
+<!--
+
 ## Technical decisions
 
 TODO: create a separated document to explain technical decisions I've made for the LLM POC. Link it here.
@@ -193,3 +211,11 @@ TODO: create a separated document to explain technical decisions I've made for t
   - mobile first
 
 ---
+
+To add:
+
+- [ ] AI interests and experiments
+- [ ] Machine learning sources
+- [ ] Backend work: currently python (django) as it plays well along with ML
+
+-->

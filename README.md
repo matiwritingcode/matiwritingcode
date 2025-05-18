@@ -221,6 +221,7 @@ These are people I admire and I enjoy following their work and learn from them. 
 - [Brad Traversy](https://www.youtube.com/traversymedia)
 - [Max Schwarzmuller](https://www.youtube.com/@maximilian-schwarzmueller)
 - [Arjan Egges](https://www.youtube.com/@ArjanCodes)
+- [Mark Richards](https://developertoarchitect.com/)
 
 Bonus track, 2 non-IT books: I find [Polya's](https://en.wikipedia.org/wiki/How_to_Solve_It) method really useful to deal with our daily (not only technical) challenges. And when it comes to self motivation, [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow) from Mihaly Csikszentmihalyi left me a few good teachings.
 
